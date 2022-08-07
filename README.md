@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lomicster.
+## - 👋 Hi, I’m @lomicster.
 - 👀 I’m interested in Project Management, QA Automation, API testing and machine learning.
 - 🌱 I’m currently learning Project Management by Google, AWS and Azure fundamentals, Java Script and Python.
 - 💞️ I’m looking to collaborate on interesting project but prety new in development.
